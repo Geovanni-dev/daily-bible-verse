@@ -14,7 +14,7 @@ fetch('versiculos.json')
 function showMessage() {
     const messageElement = document.getElementById("message"); // declara logo no início
     const lastClick = localStorage.getItem("lastClickTime");
-    const oneMinute = 10 * 1000; // tempo de bloqueio (10 segundos para teste)
+    const oneMinute = 24 * 60 * 60 * 1000; // tempo de bloqueio 24 hrs em milissegundos)
     const now = new Date().getTime();
 
     if (lastClick && now - lastClick < oneMinute) {
