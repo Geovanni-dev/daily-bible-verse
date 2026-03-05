@@ -10,7 +10,7 @@ Site que gera um versículo bíblico ao clicar no botão, mas apenas uma vez por
 
 ## 🚀 Como ver
 
-Acesse: https://geovani3344.github.io/versiculos-diarios/
+Acesse: https://geovani3344.github.io/daily-bible-verse/
 ``````
 ✨ Funcionalidades:
 
@@ -24,5 +24,6 @@ Acesse: https://geovani3344.github.io/versiculos-diarios/
 
 "Confia no Senhor de todo o teu coração"
 Provérbios 3:5 
+
 
 
