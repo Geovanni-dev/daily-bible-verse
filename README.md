@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Uma nova versão deste projeto está disponível!**
-> Para conferir a reconstrução completa com PWA, Dark Mode, mais de 300 versículos e novos recursos, acesse o novo repositório: [**Luz Diária v2.0**](https://github.com/Geovanni-dev/daily-bible-verse-v2)
+> Para conferir a reconstrução completa com PWA, Dark Mode, mais de 300 versículos e novos recursos, acesse o novo repositório: [**Luz Diária v2.0**](https://github.com/Geovanni-dev/daily-bible-verse-v2.0)
 
 Este foi o meu **primeiro projeto de estudos**, iniciado em novembro de 2024. Decidi mantê-lo exatamente como foi construído para preservar o registro histórico do meu início na programação e servir de base para comparação com a minha evolução técnica.
 
