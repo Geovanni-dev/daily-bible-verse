@@ -1,30 +1,30 @@
-# 📖 Versículo Diário
+# 📖 Versículo Diário (Legado)
 
-Site que gera um versículo bíblico ao clicar no botão, mas apenas uma vez por dia.
+> [!IMPORTANT]
+> **Uma nova versão deste projeto está disponível!**
+> Para conferir a reconstrução completa com PWA, Dark Mode, mais de 300 versículos e novos recursos, acesse o novo repositório: [**Luz Diária v2.0**](https://github.com/Geovanni-dev/daily-bible-verse-v2)
 
-## 🛠 Tecnologias
+Este foi o meu **primeiro projeto de estudos**, iniciado em novembro de 2024. Decidi mantê-lo exatamente como foi construído para preservar o registro histórico do meu início na programação e servir de base para comparação com a minha evolução técnica.
 
-- HTML
-- CSS
-- JavaScript (com localStorage pra guardar a data do último clique)
+## 🛠 Tecnologias Originais
+- **HTML5**
+- **CSS3**
+- **JavaScript Vanilla** (Manipulação simples de DOM e localStorage)
 
-## 🚀 Como ver
+## ✨ Funcionalidades da Época
+- ✅ Botão "Gerar versículo"
+- ✅ Exibição de versículo randômico
+- ✅ Trava de acesso (apenas um versículo por dia)
+- ✅ Uso de `localStorage` para persistência da data
 
-Acesse: https://geovanni-dev.github.io/daily-bible-verse/
-``````
-✨ Funcionalidades:
+## ⏳ Linha do Tempo
+- **Novembro de 2024:** Início do desenvolvimento e primeiros commits.
+- **Março de 2025:** Primeiro deploy oficial.
+- **Novembro de 2025:** Estabilização do repositório no GitHub.
+- **Maio de 2026:** Projeto descontinuado em favor da [Versão 2.0](https://luz-diaria-weld.vercel.app/).
 
-✅ Botão "Gerar versículo"
-
-✅ Versículo aparece na tela ao clicar
-
-✅ Só pode gerar UM versículo por dia
-
-✅ Usa localStorage pra lembrar se já clicou hoje
-
-"Confia no Senhor de todo o teu coração"
-Provérbios 3:5 
-
+---
+**"Confia no Senhor de todo o teu coração"** — *Provérbios 3:5*
 
 
 
